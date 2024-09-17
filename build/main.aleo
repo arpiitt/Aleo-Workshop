@@ -1,4 +1,4 @@
-program sandabgc_leo_auction.aleo;
+program leo_auction.aleo;
 
 record Bid:
     owner as address.private;
