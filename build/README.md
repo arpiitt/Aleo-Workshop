@@ -1,4 +1,4 @@
-# sandabgc_leo_auction.aleo
+# leo_auction.aleo
 
 ## Build Guide
 
