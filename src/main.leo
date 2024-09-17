@@ -1,5 +1,5 @@
 // The `program` scope defines the data types, functions, and state associated with the `auction` program.
-program sandabgc_leo_auction.aleo {
+program auction.aleo {
 
     // A bid in an auction.
     // - `owner`     : The address of the account that owns the record associated with this bid.
